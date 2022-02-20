@@ -1,0 +1,126 @@
+
+
+
+header{
+    height: 80px;
+    background-color: #4959FD;
+
+}
+
+.logo{
+    width: 80px;
+    margin-top: 22px;
+}
+
+.menu ul li{
+     display: inline-block;
+    list-style-type: none;
+    padding: 2px 10px;
+
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-family: 'Oswald', sans-serif;
+    padding: 0;
+
+    
+}
+
+.menu{
+   margin-top: 16px;
+}
+
+   .signin :last-child{
+    padding: 2px 10px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+
+    
+}
+
+
+.signin :hover{
+    background-color: #4959FD;
+    color: white;
+}
+
+
+.body-section{
+    height: 530px;
+    background-color: #4959FD;
+   
+}
+
+.part1{
+    margin-top: 100px;
+}
+.head-title h1{
+    color: white;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+.text{
+    margin-top: 20px;
+}
+.text strong{
+    color: white;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button-section{
+    margin-top: 40px;
+}
+
+ul li .btn1 {
+    text-decoration: none;
+   background-color: #000057   ;
+    border-radius: 15px;
+    color: white;
+    padding: 8px 35px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 10px;
+}
+
+.btn1:hover{
+    background-color: white;
+    color: black;
+}
+
+.btn2:hover{
+    background-color: #000057;
+    color: white;
+}
+
+ul li .btn2 {
+    text-decoration: none;
+    background-color: white;
+    border-radius: 15px;
+    padding: 8px 35px;
+    margin-left: 10px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.button-section ul li{
+    list-style-type: none;
+    display: inline;
+   
+}
+
+
+.image{
+    width: 230px;
+    height: auto;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+.screenlogo{
+width: 200px;
+}
