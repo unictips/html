@@ -1,50 +1,44 @@
-#EXTINF:0 tvg-id="ext" group-title="Adult",AdultIPTV.net MILF (720p)
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Adult",AdultIPTV.net Pornstar (720p)
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Adult",AdultIPTV.net POV (720p)
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Adult",AdultIPTV.net Russian (720p)
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Adult",AdultIPTV.net Asian (720p)
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Adult",AdultIPTV.net Brunette (720p)
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Adult",AdultIPTV.net Compilation (720p)
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Adult",AdultIPTV.net Cuckold (720p)
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="Adult",Moms Teach Sex - Step mom fucks daughters boyfriend
-http://12156.vod.redtraffic.xyz/ph56ddd9d4300e4/play.m3u8
-#EXTINF:-1 group-title="Adult",Nami Minami Let Play School
-http://12156.vod.adultiptv.net/ph5aa7c508264fa/play.m3u8
-#EXTINF:-1 group-title="Adult",Japanese public sex
-http://12156.vod.adultiptv.net/ph59d580ea7f0ba/play.m3u8
-#EXTINF:-1 group-title="Adult",Young Swedish couple fucking
-http://12156.vod.redtraffic.xyz/ph595bf5b854a38/play.m3u8
-#EXTINF:-1 group-title="Adult",Blonde Step Sister Tells Little Brother Another Bedtime Story - Marsha May
-http://12156.vod.redtraffic.xyz/ph5b0e3d812ccc0/play.m3u8
-#EXTINF:-1 group-title="Amateur",Blonde teen is squirting while her ass is gaped and creampied. HD
-http://12156.vod.adultiptv.net/ph5b61b213bd400/play.m3u8
-#EXTINF:-1 group-title="Adult",chinese couple 4p中国夫妻4p
-http://12156.vod.adultiptv.net/ph57b1b455a7193/play.m3u8
-#EXTINF:-1 group-title="Adult",Jav Amateur Teen Morikawa Fucks On The Floor Uncensored Action Chubby
-http://12156.vod.adultiptv.net/ph5be450cbcb82a/play.m3u8
-#EXTINF:-1 group-title="Adult",19 years old Chinese flight attendants getting fucked in uniform
-http://12156.vod.redtraffic.xyz/ph5884e9bf38c35/play.m3u8
-#EXTINF:-1 group-title="Adult",MOM Sexy Russian redhead milf in lingerie and heels loves to fuck
-http://12156.vod.adultiptv.net/ph57401e73a6add/play.m3u8
-#EXTINF:-1 group-title="Adult",Instagram Model Cheats on Vacation - Brandi Bae
-http://12156.vod.redtraffic.xyz/ph5be5cac14227d/play.m3u8
-#EXTINF:-1 group-title="Adult",Molly Jane in StepDaughter and dad fucking compilation in front of mom
-http://12156.vod.adultiptv.net/ph5a40383e67148/play.m3u8
-#EXTINF:-1 group-title="Adult",HOLED - Virgin boy anal fucks busty stepmom Cory Chase
-http://12156.vod.redtraffic.xyz/ph5829fde0774a9/play.m3u8
-#EXTINF:-1 group-title="Adult",Ikuta Miku Plays The Daughter In This Sod Drama Fucked In front Of Aunts
-http://12156.vod.redtraffic.xyz/ph5b84d78edad74/play.m3u8
-#EXTINF:-1 group-title="Adult",chinese
-http://12156.vod.redtraffic.xyz/ph590777be458bf/play.m3u8
-#EXTINF:-1 group-title="Adult",Asian Big ASS - Mitsu Tekitsu Part 1
-http://12156.vod.adultiptv.net/ph5b8c902e07283/play.m3u8
-#EXTINF:-1 group-title="Adult",#039;s Cum - Goddess Brianna - Mom Comes First
-http://12156.vod.adultiptv.net/ph5a4f51ae856fc/play.m3u8
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpT=s900-c-k-c0x00ffffff-no-rj" group-title="BD-BANGLA", Demu Channel
+http://103.106.2.149:13456/btv_world.m3u8
+
+#EXTINF:-1 tvg-logo="https:/imgur.com/p0I5dr0.png" group-title="BD-BANGLA", Demu Channel
+http://103.159.4.38:9191/BD-BANGLA-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.com/sites/all/themes/sloth/logo.png" group-title="BD-BANGLA", Demu Channel
+http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgRkPd.png" group-title="BANGLA", Demu Channel
+http://103.159.4.38:9191/BD-BANGLA-6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropjfjbkn/jamuna_tv_bd.png" group-title="BD-BANGLA", Demu Channel
+http://103.159.4.38:5868/BD-BANGLA-4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.coyi5p51T.png" group-title="BD-BANGLA", Demu Channel
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="BD-BANGLA", BANGLA-VISION HD
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ur.com/pTJSGtj.png" group-title="BD-BANGLA", Demu Channel
+http://103.159.4.38:8080/BD-BANGLA-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.bot.com/-sLjSbwUg5Bg/W6K8oDZhqkI/AAAAAAAAAPc/NLaA9mC7ewkQ1m4NUrvDOfQiZ0NbSzRRgCLcBGAs/s1600/maasranga-tv-live.png" group-title="BD-BANGLA", Demu Channel
+http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.coqOMtx.png" group-title="BD-NEWS", Demu Channel
+http://103.159.4.38:5868/BD-BANGLA-16/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xgk.png" group-title="BD-NEWS", Demu Channel
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s3avhouqd47c/news_24_bd.png" group-title="BD-NEWS", Demu Channel
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.coxR5E.png" group-title="BD-NEWS", Demu Channel
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channscape/1Y2Slm56uJ8.png" group-title="BD-NEWS", Demu Channel
+http://208.86.19.21:80/604.stream/index.m3u8
