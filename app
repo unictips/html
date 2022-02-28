@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpT=s900-c-k-c0x00ffffff-no-rj" group-title="BD-BANGLA", Demu Channel
 http://103.106.2.149:13456/btv_world.m3u8
 
-#EXTINF:-1 tvg-logo="https:ur.com/p0I5dr0.png" group-title="BD-BANGLA", Demu Channel
+#EXTINF:-1 tvg-logo="ht0I5dr0.png" group-title="BD-BANGLA", Demu Channel
 http://103.159.4.38:9191/BD-BANGLA-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s/sloth/logo.png" group-title="BD-BANGLA", Demu Channel
